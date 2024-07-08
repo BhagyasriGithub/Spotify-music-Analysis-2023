@@ -1,0 +1,1 @@
+In this project, I leveraged Power BI to analyze a dataset of the most streamed Spotify songs in 2023. The primary goal was to provide actionable insights through an interactive and visually appealing dashboard.
